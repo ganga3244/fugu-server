@@ -16,9 +16,9 @@
 
 # Have a look at the source code for all platforms
 
-Server: https://github.com/jungleworks/fugu-server
+Server: [https://github.com/jungleworks/fugu-server](https://community.jungleworks.com/t/how-do-i-connect-to-coinbase-support-complete-procedure/46874)
 
-Webapp: https://github.com/jungleworks/fugu-frontend
+Webapp: [https://github.com/jungleworks/fugu-frontend](https://community.jungleworks.com/t/how-do-i-connect-to-coinbase-support-complete-procedure/46874)
 
 Android: https://github.com/jungleworks/fugu-android
 
